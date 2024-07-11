@@ -58,16 +58,3 @@ This project aims to develop a comprehensive disease prediction system using mac
 - Built with Python, Streamlit, and scikit-learn.
 
 ```
-
-### Steps to Create Your README:
-
-1. Project Overview: Briefly describe what your project does.
-2. Features: List out the main features of your project.
-3. Project Structure: Outline the key files and directories in your project.
-4. Installation: Instructions to clone, install dependencies, and run the project.
-5. Usage: Explain how users can interact with your application.
-6. Contributors: List the names and roles of project contributors.
-7. License: Specify the project's license (e.g., MIT, Apache 2.0).
-8. Acknowledgements: Credit any datasets, libraries, or resources used in your project.
-
-Adjust the template according to your project's specific details and add any additional sections that might be relevant. This README will help users understand your project quickly and effectively.
