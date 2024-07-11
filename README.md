@@ -1,4 +1,4 @@
-```markdown
+
 # Multiple Disease Prediction System
 
 ## Overview
